@@ -17,11 +17,11 @@
 - matplotlib==3.3.3
 
 ## 3.2 数据集
-- Face Mask Lite Dataset, !https://www.kaggle.com/prasoonkottarathil/face-mask-lite-dataset
-- COVID Face Mask Detection Dataset, !https://www.kaggle.com/prithwirajmitra/covid-face-mask-detection-dataset
-- With/Without Mask, !https://www.kaggle.com/niharika41298/withwithout-mask
-- Face Mask Detection, !https://www.kaggle.com/andrewmvd/face-mask-detection
-- Face Mask Detection ~12K Images Dataset, !https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset
+- Face Mask Lite Dataset, <https://www.kaggle.com/prasoonkottarathil/face-mask-lite-dataset>
+- COVID Face Mask Detection Dataset, <https://www.kaggle.com/prithwirajmitra/covid-face-mask-detection-dataset>
+- With/Without Mask, <https://www.kaggle.com/niharika41298/withwithout-mask>
+- Face Mask Detection, <https://www.kaggle.com/andrewmvd/face-mask-detection>
+- Face Mask Detection ~12K Images Dataset, <https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset>
 
 ## 3.3 网络结构
 
