@@ -50,8 +50,8 @@ D:\RT-ThreadAI\RT-AK\rt_ai_tools>python aitools.py --project=D:\RT-ThreadAI\mask
 
 ### 5.1 环境
 
-- Tensorflow==2.4.0
-- OpenCV-Python==4.5.1
+- tensorflow==2.4.0
+- opencv-python==4.5.1
 - matplotlib==3.3.3
 
 ### 5.2 数据集
