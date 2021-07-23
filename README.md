@@ -83,6 +83,8 @@ D:\RT-ThreadAI\RT-AK\rt_ai_tools>python aitools.py --project=D:\RT-ThreadAI\mask
 
 ## 6. 运行结果
 
+<img align="left" src=https://user-images.githubusercontent.com/48997918/126732799-459eb4a9-b067-45ee-ba04-f2875d0452c9.jpg width=200px/><img src=https://user-images.githubusercontent.com/48997918/126732808-3904e505-5377-47a5-af01-e26990329596.jpg width=200px/>
+
 
 ## 感谢名单
 - Derekduke
